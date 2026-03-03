@@ -40,8 +40,6 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [MyJobPlatform](https://github.com/PraveenSalapu/MyJobPlatform) | Full-stack job platform with AI-powered resume tailoring & job matching | TypeScript, Next.js, Supabase |
-| [ATS Resume Tailoring Platform](https://github.com/PraveenSalapu/ATS_Resume_Tailoring_Platform) | Analyzes JDs and optimizes resumes for ATS scoring | TypeScript, Next.js, AI |
-| [ModernResumeATS](https://github.com/PraveenSalapu/ModernResumeATS) | ATS-optimized resume builder with PDF export & application tracker | TypeScript, React |
 | [MultiAgent](https://github.com/PraveenSalapu/MultiAgent) | Multi-agent AI system for booking appointments & locating healthcare providers | Python |
 | [HealthAgent](https://github.com/PraveenSalapu/HealthAgent) | Early diabetic prediction model using ML | Python |
 | [Portfolio](https://github.com/PraveenSalapu/Portfolio) | Personal portfolio site | Next.js, TypeScript, TailwindCSS |
