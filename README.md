@@ -37,12 +37,14 @@
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [MyJobPlatform](https://github.com/PraveenSalapu/MyJobPlatform) | Full-stack job platform with AI-powered resume tailoring & job matching | TypeScript, Next.js, Supabase |
-| [MultiAgent](https://github.com/PraveenSalapu/MultiAgent) | Multi-agent AI system for booking appointments & locating healthcare providers | Python |
-| [HealthAgent](https://github.com/PraveenSalapu/HealthAgent) | Early diabetic prediction model using ML | Python |
-| [Portfolio](https://github.com/PraveenSalapu/Portfolio) | Personal portfolio site | Next.js, TypeScript, TailwindCSS |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [MyJobPlatform](https://github.com/PraveenSalapu/MyJobPlatform) | Full-stack AI-powered job platform with resume tailoring, job matching & application tracking | **Next.js 14** · **TypeScript** · **Supabase** (Auth, Postgres, Storage) · **n8n** (workflow automation) · **OpenAI API** (embeddings & vector scoring) · **Tailwind CSS** · **Vercel** |
+| [ATS Resume Tailoring Platform](https://github.com/PraveenSalapu/ATS_Resume_Tailoring_Platform) | Analyzes job descriptions and optimizes resumes for ATS scoring using AI | **Next.js** · **TypeScript** · **OpenAI API** · **PDF parsing** · **Tailwind CSS** · **Vercel** |
+| [ModernResumeATS](https://github.com/PraveenSalapu/ModernResumeATS) | ATS-optimized resume builder with PDF export, smart tailoring, and application tracker | **Next.js** · **TypeScript** · **React** · **Tailwind CSS** · **PDF generation** |
+| [MultiAgent](https://github.com/PraveenSalapu/MultiAgent) | Multi-agent AI system for booking appointments & locating healthcare providers | **Python 3.9+** · **Google ADK** (Gemini agents) · **Multi-agent coordinator pattern** · **OOP** · **Modular agent architecture** |
+| [HealthAgent](https://github.com/PraveenSalapu/HealthAgent) | Diabetic risk prediction chatbot combining ML, RAG, and LLM agents | **Python** · **XGBoost** (BRFSS dataset) · **Streamlit** · **Google Gemini 1.5 Flash** · **Qdrant Cloud** (vector DB) · **Sentence Transformers** · **Hybrid RAG** (BM25 + semantic) · **LangChain** |
+| [Portfolio](https://github.com/PraveenSalapu/Portfolio) | Personal portfolio website | **Next.js 14** · **TypeScript** · **Tailwind CSS** · **Framer Motion** · **Vercel** |
 
 ---
 
