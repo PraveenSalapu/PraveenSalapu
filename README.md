@@ -57,3 +57,14 @@
 - **Portfolio:** [saipraveenkumarsalapu.com](https://www.saipraveenkumarsalapu.com)
 - **LinkedIn:** [linkedin.com/in/sai-praveen-kumar-salapu](https://www.linkedin.com/in/sai-praveen-kumar-salapu)
 - **Email:** Available on LinkedIn or my portfolio
+
+---
+
+## Certifications & Achievements
+
+| Badge | Description |
+|-------|-------------|
+| ![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations%20Associate%202025-F80000?style=flat&logo=oracle&logoColor=white) | **Oracle Certified Foundations Associate** — Oracle Cloud Infrastructure AI Foundations (2025) |
+| ![LeetCode 10 Days](https://img.shields.io/badge/LeetCode-10%20Day%20Badge-FFA116?style=flat&logo=leetcode&logoColor=black) | **LeetCode 10-Day Streak Badge** — Consistent daily problem solving |
+
+> Currently working towards the **LeetCode 100 Days** badge through daily DSA practice.
