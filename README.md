@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praveen-kumar-salapu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.saipraveenkumarsalapu.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.saipraveenkumarsalapu.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saipraveenkumarsalapu@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenSalapu&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
