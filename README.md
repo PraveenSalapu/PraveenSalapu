@@ -145,7 +145,7 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 ## CONNECT
 
 - **Portfolio:** [saipraveenkumarsalapu.com](https://www.saipraveenkumarsalapu.com)
-- **LinkedIn:** [linkedin.com/in/sai-praveen-kumar-salapu](https://www.linkedin.com/in/sai-praveen-kumar-salapu)
+- **LinkedIn:** [linkedin.com/in/sai-praveen-kumar-salapu](https://www.linkedin.com/in/saisalapu)
 - **Email:** Available on LinkedIn or portfolio
 
 <div align="center">
