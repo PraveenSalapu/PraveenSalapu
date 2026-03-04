@@ -99,6 +99,8 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [MyJobPlatform](https://github.com/PraveenSalapu/MyJobPlatform) | AI-powered job platform with resume tailoring, job matching & application tracking | Node.js · TypeScript · Supabase · n8n · OpenAI · RAG |
+| [ATS Resume Tailoring](https://github.com/PraveenSalapu/ATS_Resume_Tailoring_Platform) | Analyzes job descriptions and optimizes resumes for ATS scoring using AI | TypeScript · OpenAI API · PDF parsing · Vector Search |
+| [ModernResumeATS](https://github.com/PraveenSalapu/ModernResumeATS) | ATS-optimized resume builder with PDF export and smart tailoring | TypeScript · Node.js · PDF generation |
 | [MultiAgent](https://github.com/PraveenSalapu/MultiAgent) | Multi-agent AI system for booking appointments & locating healthcare providers | Python · Google ADK · Gemini Agents · OOP |
 | [HealthAgent](https://github.com/PraveenSalapu/HealthAgent) | Diabetic risk prediction chatbot combining ML, RAG, and LLM agents | Python · XGBoost · Gemini · Qdrant · LangChain · BM25 + Semantic RAG |
 | [Portfolio](https://github.com/PraveenSalapu/Portfolio) | Personal portfolio website | TypeScript · Node.js · Vercel |
@@ -121,8 +123,20 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 
 ## CERTIFICATIONS
 
-| Certification | Issuer |
-|--------------|--------|
+<div align="center">
+
+<a href="https://www.credly.com/badges/32b0e993-1a25-4db3-9c63-12a71726f92e" target="_blank">
+  <img src="https://images.credly.com/badges/32b0e993-1a25-4db3-9c63-12a71726f92e/image.png" width="150" height="150" alt="Credly Badge" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/31ade16e-4d80-4498-8cf1-bd01a9426c6c" target="_blank">
+  <img src="https://images.credly.com/badges/31ade16e-4d80-4498-8cf1-bd01a9426c6c/image.png" width="150" height="150" alt="Credly Badge" />
+</a>
+
+</div>
+
+| Badge | Description |
+|-------|-------------|
 | ![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations%20Associate%202025-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle Certified Foundations Associate — OCI AI (2025) |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-10%20Day%20Streak%20Badge-FFA116?style=flat-square&logo=leetcode&logoColor=black) | LeetCode 10-Day Streak — Daily DSA practice |
 
