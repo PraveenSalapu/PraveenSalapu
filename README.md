@@ -29,8 +29,8 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 ```
 
 - **3 years** at Accenture building large-scale distributed backend systems with **Java Spring Boot**
-- Designed **100+ high-performance RESTful APIs** with Elastic Search, Redis caching, and Aurora RDS
-- Architected containerized microservices on **Docker & Kubernetes (EKS)** — 99.9% uptime
+- Designed **high-performance RESTful APIs** with Elastic Search, Redis caching, and Aurora RDS
+- Architected containerized microservices on **Docker & Kubernetes (EKS)** acheiveing 99.9% uptime
 - Built **CI/CD pipelines** (Jenkins, GitHub Actions) reducing deployment time by 30%
 - Strong in **System Design**, **OOD**, **DSA**, and **fault-tolerant architecture**
 - Building AI-powered backends with **RAG pipelines**, **LLM agents**, and **vector databases**
