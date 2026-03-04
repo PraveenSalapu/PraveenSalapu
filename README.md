@@ -99,8 +99,6 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [MyJobPlatform](https://github.com/PraveenSalapu/MyJobPlatform) | AI-powered job platform with resume tailoring, job matching & application tracking | Node.js · TypeScript · Supabase · n8n · OpenAI · RAG |
-| [ATS Resume Tailoring](https://github.com/PraveenSalapu/ATS_Resume_Tailoring_Platform) | Analyzes job descriptions and optimizes resumes for ATS scoring using AI | TypeScript · OpenAI API · PDF parsing · Vector Search |
-| [ModernResumeATS](https://github.com/PraveenSalapu/ModernResumeATS) | ATS-optimized resume builder with PDF export and smart tailoring | TypeScript · Node.js · PDF generation |
 | [MultiAgent](https://github.com/PraveenSalapu/MultiAgent) | Multi-agent AI system for booking appointments & locating healthcare providers | Python · Google ADK · Gemini Agents · OOP |
 | [HealthAgent](https://github.com/PraveenSalapu/HealthAgent) | Diabetic risk prediction chatbot combining ML, RAG, and LLM agents | Python · XGBoost · Gemini · Qdrant · LangChain · BM25 + Semantic RAG |
 | [Portfolio](https://github.com/PraveenSalapu/Portfolio) | Personal portfolio website | TypeScript · Node.js · Vercel |
