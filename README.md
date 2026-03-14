@@ -2,7 +2,7 @@
 
 # SAI PRAVEEN KUMAR SALAPU
 
-### Backend Software Engineer | Distributed Systems & AI | ASU CS Graduate
+### Backend Software Engineer | Distributed Systems | AI Integrations | ASU IT Graduate
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Java+%7C+Spring+Boot;Distributed+Systems+%7C+Microservices+%7C+AWS;RAG+Pipelines+%7C+AI+Agents+%7C+LLMs;High+Throughput+%7C+Low+Latency+Systems)](https://git.io/typing-svg)
 
