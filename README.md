@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-praveen-kumar-salapu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.saipraveenkumarsalapu.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saipraveenkumarsalapu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-praveensalapu-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/praveensalapu/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PraveenSalapu&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 
@@ -21,9 +22,9 @@
 ```yaml
 Name       : Sai Praveen Kumar Salapu
 Role       : Backend Software Engineer
-Experience : 3 years (Accenture — Java, Spring Boot, Microservices)
+Experience : 3 years (Accenture - Java, Spring Boot, Microservices)
 Location   : Tempe, Arizona, USA
-Education  : M.S. Information Technology — Arizona State University
+Education  : M.S. Information Technology - Arizona State University
 Focus      : Distributed Systems | Backend APIs | Cloud Infrastructure | AI/ML
 Status     : Open to Backend SWE / AI-ML Engineer roles
 ```
@@ -55,7 +56,7 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Cloud — AWS**
+**Cloud - AWS**
 
 ![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
@@ -107,36 +108,54 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 
 ## GITHUB STATS
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenSalapu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenSalapu&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=PraveenSalapu&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41)
 
+---
+
+## LEETCODE STATS
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/praveensalapu?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/praveensalapu/)
+
 </div>
+
+| Metric | Value |
+|--------|-------|
+| Problems Solved | **684** / 3873 |
+| Easy | 287 / 932 |
+| Medium | 344 / 2026 |
+| Hard | 53 / 915 |
+| Global Rank | **#88,370** |
+| Total Submissions (1yr) | **2,423** |
+| Active Days | **247** |
+| Max Streak | **32 days** |
+| Most Recent Badge | **50 Days Badge 2026** |
+
+**DSA Skills**
+
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-Advanced_x95-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Backtracking](https://img.shields.io/badge/Backtracking-Advanced_x29-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Union Find](https://img.shields.io/badge/Union_Find-Advanced_x21-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![Hash Table](https://img.shields.io/badge/Hash_Table-Intermediate_x127-FFB84C?style=flat-square&logo=leetcode&logoColor=black)
+![Math](https://img.shields.io/badge/Math-Intermediate_x95-FFB84C?style=flat-square&logo=leetcode&logoColor=black)
+![DFS](https://img.shields.io/badge/DFS-Intermediate_x75-FFB84C?style=flat-square&logo=leetcode&logoColor=black)
+![Array](https://img.shields.io/badge/Array-Fundamental_x383-5CB85C?style=flat-square&logo=leetcode&logoColor=white)
+![String](https://img.shields.io/badge/String-Fundamental_x148-5CB85C?style=flat-square&logo=leetcode&logoColor=white)
+![Sorting](https://img.shields.io/badge/Sorting-Fundamental_x90-5CB85C?style=flat-square&logo=leetcode&logoColor=white)
 
 ---
 
 ## CERTIFICATIONS
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/32b0e993-1a25-4db3-9c63-12a71726f92e" target="_blank">
-  <img src="https://images.credly.com/badges/32b0e993-1a25-4db3-9c63-12a71726f92e/image.png" width="150" height="150" alt="Credly Badge" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/31ade16e-4d80-4498-8cf1-bd01a9426c6c" target="_blank">
-  <img src="https://images.credly.com/badges/31ade16e-4d80-4498-8cf1-bd01a9426c6c/image.png" width="150" height="150" alt="Credly Badge" />
-</a>
-
-</div>
+ [Credly Badge](https://www.credly.com/badges/32b0e993-1a25-4db3-9c63-12a71726f92e)&nbsp;&nbsp;&nbsp;[Credly Badge](https://www.credly.com/badges/31ade16e-4d80-4498-8cf1-bd01a9426c6c)
 
 | Badge | Description |
 |-------|-------------|
-| ![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations%20Associate%202025-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle Certified Foundations Associate — OCI AI (2025) |
-| ![LeetCode](https://img.shields.io/badge/LeetCode-10%20Day%20Streak%20Badge-FFA116?style=flat-square&logo=leetcode&logoColor=black) | LeetCode 10-Day Streak — Daily DSA practice |
+| ![Oracle OCI AI Foundations](https://img.shields.io/badge/Oracle-OCI%20AI%20Foundations%20Associate%202025-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle Certified Foundations Associate - OCI AI (2025) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-50%20Day%20Streak%20Badge%202026-FFA116?style=flat-square&logo=leetcode&logoColor=black) | LeetCode 50-Day Streak - Consistent Daily DSA Practice |
 
 > Currently grinding towards the **LeetCode 100 Days** badge.
 
@@ -146,10 +165,7 @@ Status     : Open to Backend SWE / AI-ML Engineer roles
 
 - **Portfolio:** [saipraveenkumarsalapu.com](https://www.saipraveenkumarsalapu.com)
 - **LinkedIn:** [linkedin.com/in/saisalapu](https://www.linkedin.com/in/saisalapu)
+- **LeetCode:** [leetcode.com/u/praveensalapu](https://leetcode.com/u/praveensalapu/)
 - **Email:** Available on LinkedIn or portfolio
 
-<div align="center">
-
 *"First, solve the problem. Then, write the code."*
-
-</div>
